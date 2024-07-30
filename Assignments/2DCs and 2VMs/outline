@@ -1,0 +1,11 @@
+Using scripts to:
+--make a vm named DC01
+--copy a vhdk golden image, name it DC01, assign to the new vm.
+--rename computer in the vm to DC01
+
+--install adds
+--setup safe mode admin
+--build domain
+--make DC02, connect to domain
+
+--create two users 
